@@ -12,7 +12,9 @@
 
 <p align = "center">
   
-  ## I am curious about autonomous systems, quantum computing and computational modelling
+  ## I am curious about autonomous systems, quantum computing and computational modelling!
+
+  ## I hope that with time this page will become a real-time illustration of my journey as a programmer and a student.
 
 </p>
 
