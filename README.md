@@ -14,8 +14,6 @@
   
   ## I am curious about autonomous systems, quantum computing and computational modelling!
 
-  ## I hope that with time this page will become a real-time illustration of my journey as a programmer and a student.
-
 </p>
 
 _I am currently learning:_
@@ -29,3 +27,16 @@ _And I hope to learn:_
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c"/>
 </p>
+
+_Insert bad joke for some personality: I aspire to collect programming languages like infinity stones_
+
+<p> I hope that with time this page becomes a live illustration of my journey as a programmer and a student.
+</p>
+
+# Projects and Competitions
+
+> **Springpod x Viasat Space for Good Competition:** Competed in 2/3 stages. Proposed a conceptual design for an autonomous maintenance system for satellites which centred around  computer vision and machine learning concepts.
+> <br><br>
+> **STEMETTES x Quadrature Insight Day 3 hour Challenge:** Led a team to develop a wearable heath monitoring device for menopausal women. This involved a conceptual design of the product in TinkerCAD, a presentation and planning a website design.<br><br>
+> **Touch Typing Software A Level Programming Project:** Over 2 years I developed a touch-typing programme that provided visible feedback, and aimed to provide targeted practice for young children. I based the typing lessons around curriculum vocabulary. I worked with a real stakeholder, conducting research around digital literacy and learning techniques to support SEND children. I produced comprehensive documentation (a 60k word document) to support future development. I developed the project using an agile methodology.
+
