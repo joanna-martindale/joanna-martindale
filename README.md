@@ -8,6 +8,10 @@
   
 </p>
 
+## About Me
+
+_Having completed my A Levels in 2026, I am currently undertaking a gap year whilst working as a Water Technician at CBRE - throughout my gap year I hope to improve my programming proficiency, build something cool and maybe pick up a few (programming) languages and become trilingual!_
+
 <!--Interests-->
 
 <p align = "center">
@@ -40,3 +44,5 @@ _Insert bad joke for some personality: I aspire to collect programming languages
 > **STEMETTES x Quadrature Insight Day 3 hour Challenge:** Led a team to develop a wearable heath monitoring device for menopausal women. This involved a conceptual design of the product in TinkerCAD, a presentation and planning a website design.<br><br>
 > **Touch Typing Software A Level Programming Project:** Over 2 years I developed a touch-typing programme that provided visible feedback, and aimed to provide targeted practice for young children. I based the typing lessons around curriculum vocabulary. I worked with a real stakeholder, conducting research around digital literacy and learning techniques to support SEND children. I produced comprehensive documentation (a 60k word document) to support future development. I developed the project using an agile methodology.
 
+> [!WARNING]
+> OOPS you reached the end of the page, Joanna is building...
