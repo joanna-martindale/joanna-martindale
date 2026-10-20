@@ -12,11 +12,12 @@
 
 _Having completed my A Levels in 2026, I am currently undertaking a gap year whilst working as a Water Technician at CBRE - throughout my gap year I hope to improve my programming proficiency, build something cool and maybe pick up a few (programming) languages and become trilingual!_
 
+**Check out my personal website:** [website link goes here]
 <!--Interests-->
 
 <p align = "center">
   
-  ## I am curious about autonomous systems, quantum computing and computational modelling!
+  ## I am curious about Autonomous Systems, Quantum Computing and Computational Modelling!
 
 </p>
 
