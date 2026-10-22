@@ -12,7 +12,7 @@
 
 _Having completed my A Levels in 2026, I am currently undertaking a gap year whilst working as a Water Technician at CBRE - throughout my gap year I hope to improve my programming proficiency, build something cool and maybe pick up a few (programming) languages and become trilingual!_
 
-**Check out my personal website:** joanna-martindale.github.io
+**Check out my personal website:** https://joanna-martindale.github.io
 <!--Interests-->
 
 <p align = "center">
